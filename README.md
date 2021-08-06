@@ -1,3 +1,9 @@
+### NB
+
+I'm making some changes to the dependencies so it will at least partially run on my M1
+Mac. Until Python3.7 is released for Apple Silicon I cannot use this repo
+as-is.
+
 Machine Learning Notebooks
 ==========================
 
